@@ -1,3 +1,3 @@
 -Tyler Dale
 -Creating a Bed and Breakfast website that implements Bootstrap.
--Github Link:
+-Github Link: https://github.com/TylerD0961296/Bootstrap
